@@ -1,7 +1,7 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:dragon_egg",
+            "item": "minecraft:dragon_egg"
         },
         "title": {
             "text": "Scrambled Eggs",
