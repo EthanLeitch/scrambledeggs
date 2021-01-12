@@ -1,0 +1,21 @@
+
+--------------------------------------------------
+
+v1.0.0
+First official release.
+
++ Complete rework of code.
++ The Dragon Egg is spawned at 0, 80, 0 as a physical block instead of an item upon the death of the Dragon
+  This change was made because the Dragon Egg item would often fall into the portal
++ An announcement in chat when anyone defeats the Dragon and when the datapack is loaded
++ Added info function to let players know who created the datapack
++ The Dragon being killed by a player is being handled with an advancement that is immediately revoked
+
+--------------------------------------------------
+
+Alpha release
+No official releases were made as the project was in alpha
+
++ Modified the Ender Dragon loot table to drop the egg upon death
+
+--------------------------------------------------

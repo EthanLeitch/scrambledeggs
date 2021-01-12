@@ -1,0 +1,1 @@
+tellraw @a {"text": "Scrambled Eggs loaded!", "color": "#ffffff"}

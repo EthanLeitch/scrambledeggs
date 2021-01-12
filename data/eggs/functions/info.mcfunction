@@ -1,0 +1,1 @@
+tellraw @s [{"text": "Datapack created by _9volts (check ", "color": "#ffffff"}, {"text":"GitHub", "underlined": true, "color": "#00ccff", "clickEvent": {"action": "open_url", "value": "https://github.com/EthanLeitch/scrambledeggs"}}, {"text": " for more info).", "color":"#ffffff"}]

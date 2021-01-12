@@ -1,5 +1,5 @@
 # Scrambled Eggs
-Makes the dragon egg drop every time the Ender Dragon is killed.
-Compatible with [VanillaTweaks](https://vanillatweaks.net/picker/datapacks/) datapacks!
+Makes the Dragon Egg drop every time the Ender Dragon is killed.
+Tested and working on 1.16.4!
 
 ![Ender Dragon](https://i.imgur.com/MhAokJ8.jpg)
