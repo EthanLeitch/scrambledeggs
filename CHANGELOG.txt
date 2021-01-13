@@ -1,8 +1,18 @@
 
 --------------------------------------------------
 
+v1.0.2
+An elegant patch!
+
++ The bell ringing sound now plays when the Dragon is killed
+# The Dragon Egg is now spawned at 1 block above the highest block of bedrock at 0, ~, 0
+  This change was made because it is more elegant than just dropping the Egg at a high y-value
+
+--------------------------------------------------
+
 v1.0.1
-Post-release patch
+Post-release patch.
+
 # Fixed version command as the version was listed as 2.0.0
 
 --------------------------------------------------
