@@ -1,6 +1,12 @@
 
 --------------------------------------------------
 
+v1.0.1
+Post-release patch
+# Fixed version command as the version was listed as 2.0.0
+
+--------------------------------------------------
+
 v1.0.0
 First official release.
 
