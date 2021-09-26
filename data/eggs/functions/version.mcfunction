@@ -1,1 +1,1 @@
-tellraw @s {"text": "Version: 1.0.2", "color": "#ffffff"}
+tellraw @s {"text": "Version: 1.0.3", "color": "#ffffff"}
