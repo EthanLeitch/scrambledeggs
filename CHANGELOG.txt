@@ -1,6 +1,13 @@
 
 --------------------------------------------------
 
+v1.0.4
+Tested and working on 1.18.1
+
+- No significant changes were made
+
+--------------------------------------------------
+
 v1.0.3
 Tested and working on 1.17.1
 
